@@ -1,0 +1,5 @@
+python-azure-mgmt-compute (0.30.0~rc1-1) pexip; urgency=low
+
+  * Initial release
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 23 Mar 2016 02:08:42 +0000
