@@ -1,3 +1,9 @@
+python-azure-mgmt-compute (0.30.0~rc1-2) pexip; urgency=low
+
+  * No-change rebuild
+
+ -- John-Mark Bell <jmb@pexip.com>  Mon, 30 Jan 2017 23:59:52 +0000
+
 python-azure-mgmt-compute (0.30.0~rc1-1) pexip; urgency=low
 
   * Initial release
