@@ -1,3 +1,4 @@
+HISTORY.rst
 MANIFEST.in
 README.rst
 setup.cfg
@@ -15,11 +16,22 @@ azure/mgmt/compute/models/availability_set_paged.py
 azure/mgmt/compute/models/boot_diagnostics.py
 azure/mgmt/compute/models/boot_diagnostics_instance_view.py
 azure/mgmt/compute/models/compute_long_running_operation_properties.py
-azure/mgmt/compute/models/compute_long_running_operation_result.py
 azure/mgmt/compute/models/compute_management_client_enums.py
+azure/mgmt/compute/models/container_service.py
+azure/mgmt/compute/models/container_service_agent_pool_profile.py
+azure/mgmt/compute/models/container_service_custom_profile.py
+azure/mgmt/compute/models/container_service_diagnostics_profile.py
+azure/mgmt/compute/models/container_service_linux_profile.py
+azure/mgmt/compute/models/container_service_master_profile.py
+azure/mgmt/compute/models/container_service_orchestrator_profile.py
+azure/mgmt/compute/models/container_service_paged.py
+azure/mgmt/compute/models/container_service_service_principal_profile.py
+azure/mgmt/compute/models/container_service_ssh_configuration.py
+azure/mgmt/compute/models/container_service_ssh_public_key.py
+azure/mgmt/compute/models/container_service_vm_diagnostics.py
+azure/mgmt/compute/models/container_service_windows_profile.py
 azure/mgmt/compute/models/data_disk.py
 azure/mgmt/compute/models/data_disk_image.py
-azure/mgmt/compute/models/delete_operation_result.py
 azure/mgmt/compute/models/diagnostics_profile.py
 azure/mgmt/compute/models/disk_encryption_settings.py
 azure/mgmt/compute/models/disk_instance_view.py
@@ -92,6 +104,7 @@ azure/mgmt/compute/models/win_rm_listener.py
 azure/mgmt/compute/models/windows_configuration.py
 azure/mgmt/compute/operations/__init__.py
 azure/mgmt/compute/operations/availability_sets_operations.py
+azure/mgmt/compute/operations/container_services_operations.py
 azure/mgmt/compute/operations/usage_operations.py
 azure/mgmt/compute/operations/virtual_machine_extension_images_operations.py
 azure/mgmt/compute/operations/virtual_machine_extensions_operations.py
